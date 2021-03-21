@@ -11,6 +11,10 @@ https://github.com/nrimsky/start-hack-2021-backend
 
 https://github.com/jan-willeke/start_hack_2021_experiments
 
-Also her is our link to the REST API:
+Also here is our link to the REST API:
 
 https://starthack-backend.herokuapp.com/
+
+and furthermore the video on YouTube:
+
+https://www.youtube.com/watch?v=uEm004OMkXU
